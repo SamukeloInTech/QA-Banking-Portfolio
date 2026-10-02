@@ -11,7 +11,7 @@
 
 This project is a complete manual testing cycle on ParaBank, a demo banking application. The goal was to validate core financial features (account overview, fund transfers and bill payments), find defects, and document everything the way a QA team would: scope, test cases, bug reports, traceability and a final summary.
 
-> **Note:** ParaBank is a demo application built for practice and is known to have quirks. Findings below are reported as I observed them during my test sessions.
+> **Note:** ParaBank is a demo application built for testing practice, so some of its behaviour may be simplified compared with a real banking system. Findings below are reported as I observed them during my test sessions.
 
 ---
 
