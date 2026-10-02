@@ -20,10 +20,10 @@ This project is a complete manual testing cycle on ParaBank, a demo banking appl
 | Item | Detail |
 | --- | --- |
 | Application | ParaBank (https://parabank.parasoft.com/) |
-| Browser | [e.g. Chrome, version ___] |
-| Operating system | [e.g. Windows 11] |
-| Test dates | [e.g. Month Year] |
-| Tools | [e.g. Jira for bug tracking, Excel/Markdown for test cases, XMind for mindmap] |
+| Browser | Google Chrome 154 (64-bit) |
+| Operating system | Windows 11 |
+| Test dates | September 2026 |
+| Tools | Markdown (.md) and Visual Studio Code (test cases and documentation), Git and GitHub (version control) |
 
 ---
 
