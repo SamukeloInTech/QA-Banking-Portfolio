@@ -35,7 +35,7 @@ This project is a complete manual testing cycle on ParaBank, a demo banking appl
 | Test cases executed | 7 |
 | Passed | 4 |
 | Failed | 3 |
-| Not executed | 1 — [reason, e.g. blocked by BUG_00X / out of scope] |
+| Not executed | 1 (TC_00X, not run due to time constraints) |
 
 **Defects found:** 3 in total
 - 2 Critical
